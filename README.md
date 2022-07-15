@@ -37,3 +37,13 @@ Quando uma pessoa solicita um empréstimo, existem dois tipos de decisões que p
   - Totalmente pago (Fully paid): O requerente pagou integralmente o empréstimo (o principal e a taxa de juros).
   - Pagamento em curso (Current): O requerente está em processo de pagamento das parcelas, ou seja, o prazo do empréstimo ainda não está concluído.
   - Inadimplente (Charged-off): O solicitante perdeu o prazo de pagamento e não paga as parcelas há muito tempo.
+
+## 5. Preparação dos Dados
+
+## 6. Criação do Modelo
+
+### 6.1 Melhores modelos
+
+### 6.2 Seleção de Variáveis
+
+## 7. Resultados e Conclusão
