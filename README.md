@@ -17,7 +17,7 @@ Esse notebook foi desenvolvido como atividade de Trabalho de Conclusão de Curso
 ## 3. A Base de Dados e o LendingClub
   O dataset foi composto de 2.260.701 empréstimos aceitos na plataforma LendingClub no período de 2007 a 2018 e está disponível na plataforma Kaggle pelo link https://www.kaggle.com/datasets/wordsforthewise/lending-club
  
-  A LendingClub é a maior plataforma de empréstimos peer-to-peer do mundo, com sede em San Francisco, Califórnia, permitindo que seus usuários façam empréstimos pessoais não securitizados entre US$ 1.000 e US$ 40.000 com período padrão de amortização de três anos. Os Investidores podem selecionar seus tomadores de empréstimos através das informações fornecidas na plataforma, ganhando dinheiro com os juros dessas operações. A LendingClub atua como intermediadora cobrando uma taxasobre os empréstimos.
+  A LendingClub é a maior plataforma de empréstimos peer-to-peer do mundo, com sede em San Francisco, Califórnia, permitindo que seus usuários façam empréstimos pessoais não securitizados entre US$ 1.000 e US$ 40.000 com período padrão de amortização de três anos. Os Investidores podem selecionar seus tomadores de empréstimos através das informações fornecidas na plataforma, ganhando dinheiro com os juros dessas operações. A LendingClub atua como intermediadora cobrando uma taxa sobre os empréstimos.
  
   Para este estudo de caso, será utilizado análise exploratória dos dados e Machine Learning. Também desenvolveremos uma compreensão básica sobre a análise de risco em serviços bancários e financeiros.
 
